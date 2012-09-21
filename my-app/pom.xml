@@ -13,8 +13,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <scm>
-    <connection>scm:git@github.com:denami/myfincenter.git</connection>
-    <developerConnection>scm:git@github.com:denami/myfincenter.git</developerConnection>
+    <connection>scm:git:git@github.com:denami/myfincenter.git</connection>
+    <developerConnection>scm:git:git@github.com:denami/myfincenter.git</developerConnection>
     <url>https://github.com/denami/myfincenter.git</url>
   </scm>
   <build>
