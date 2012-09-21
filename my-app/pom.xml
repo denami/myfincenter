@@ -16,7 +16,7 @@
     <connection>scm:git:git@github.com:denami/myfincenter.git</connection>
     <developerConnection>scm:git:git@github.com:denami/myfincenter.git</developerConnection>
     <url>https://github.com/denami/myfincenter.git</url>
-    <tag>HEAD</tag>
+    <tag>my-two-branch</tag>
   </scm>
   <build>
   <plugins>
